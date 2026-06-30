@@ -1,0 +1,12 @@
+Customer Clustering Report
+==========================
+Records: 8950
+Features: 17
+Clusters: 3
+Silhouette Score: 0.2506
+
+Cluster Distribution:
+Cluster
+2    6119
+0    1596
+1    1235
